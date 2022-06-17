@@ -4,14 +4,14 @@ module.exports = {
     /**
      * Informations à propos du compte Twilio
      */
-    accountSid: '',
-    authToken: '',
-    callerid: '+yourcallerid',
+    accountSid: 'AC3ee6ad7181ab76400a333a86704deade',
+    authToken: 'b6fff4fe01df1e6159116ba83e406801',
+    callerid: '+17409000920',
 
     /**
      * Informations à propos de l'API
      */
-    apipassword: 'passwordtochange',
+    apipassword: 'spider',
     serverurl: 'http://yourserverip:1337',
 
     /**
